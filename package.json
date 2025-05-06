@@ -1,0 +1,31 @@
+{
+  "name": "fitness-apparel-inventory",
+  "version": "1.0.0",
+  "description": "A fitness apparel inventory management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarizzaK/fitness-apparel-inventory.git"
+  },
+  "keywords": [
+    "inventory",
+    "apparel",
+    "fitness",
+    "nodejs",
+    "express",
+    "products",
+    "management"
+  ],
+  "author": "Marizza Karlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarizzaK/fitness-apparel-inventory/issues"
+  },
+  "homepage": "https://github.com/MarizzaK/fitness-apparel-inventory#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
